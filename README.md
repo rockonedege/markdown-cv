@@ -1,6 +1,6 @@
 # Markdown-cv Intro
 
-an HTML template for writting single-file CV in Markdown
+An HTML template for writting single-file CV in Markdown
 
 I just found myself starting to update my resume the first time in more than 5 years.
 Having fallen into the habit of writing everything in markdown whenever possible, I thought it was a good idea to rewrite my resume in markdown format, for better maintainability and flexibility in the output.
